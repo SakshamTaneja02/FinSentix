@@ -1,0 +1,1 @@
+https://huggingface.co/datasets/financial_phrasebank/blob/main/data/FinancialPhraseBank-v1.0.zip

@@ -1,0 +1,2 @@
+python FinancialSentiment.py
+pause
