@@ -1,0 +1,2 @@
+This projects works on financial entity recognition. Its main aim is to basically convert unstructured financial data to structured financial data. It uses BERT and LSTM for entity recognition and sentiment analysis. 
+If you want to understand it better you can go through the report and PPT. Also if you want to use the model you first have to install the libraries I have used and then you can follow the steps written in the report or screen folder.
